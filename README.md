@@ -1,9 +1,17 @@
 ### Hi, I'm Sarah 👋
 
-- 🌎 I'm brazilian 🇧🇷
-- 🔭 I’m currently not working 
-- 🌱 I’m currently learning HTML & CSS
-- 😄 Pronouns: she/her
+✩ 🌎 I'm brazilian 🇧🇷
+
+✩ 🎂 I'm 21
+
+✩ 🔭 I’m currently not working 
+
+✩ 🌱 I’m currently learning HTML & CSS
+
+✩ 😄 Pronouns: she/her
+
+✩ 🐱 I love cats and studio ghibli movies
+
 #
 <div style="display: inline_block">
   <a href="https://github.com/sarahsaene">
