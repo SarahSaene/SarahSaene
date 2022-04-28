@@ -6,7 +6,7 @@
 
 ✩ 🔭 I’m currently not working 
 
-✩ 🌱 I’m currently learning HTML & CSS
+✩ 🌱 I’m currently learning front-end
 
 ✩ 😄 Pronouns: she/her
 
