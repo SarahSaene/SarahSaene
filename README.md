@@ -10,7 +10,7 @@
 
 ✩ 😄 Pronouns: she/her
 
-✩ 🐱 I like to cook, cats, games and studio ghibli movies
+✩ 🐱 I like to cook, cats, games and Disney and Studio Ghibli movies
 
 #
 <div style="display: inline_block" align="center">
