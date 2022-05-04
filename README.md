@@ -6,11 +6,11 @@
 
 ✩ 🔭 I’m currently not working 
 
-✩ 🌱 I’m currently learning front-end
+✩ 🌱 I’m currently learning JS
 
 ✩ 😄 Pronouns: she/her
 
-✩ 🐱 I love cats and studio ghibli movies
+✩ 🐱 I like to cook, cats, games and studio ghibli movies
 
 #
 <div style="display: inline_block" align="center">
