@@ -2,7 +2,7 @@
 
 ✩ 🌎 I'm brazilian 🇧🇷
 
-✩ 🎂 I'm 21
+✩ 🎂 I'm 22
 
 ✩ 🔭 I’m currently not working 
 
