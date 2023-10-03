@@ -4,7 +4,7 @@
 
 ✩ 🎂 I'm 22
 
-✩ 🔭 I’m currently not working 
+✩ 🔭 I'm currently a video editor at an agency
 
 ✩ 🌱 I’m currently learning JS
 
